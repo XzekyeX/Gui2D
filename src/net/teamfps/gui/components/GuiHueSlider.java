@@ -1,7 +1,11 @@
 package net.teamfps.gui.components;
 
 import java.awt.Color;
-
+/**
+ * 
+ * @author Mikko Tekoniemi
+ *
+ */
 public class GuiHueSlider extends GuiSlider {
 	private Color value = Color.white;
 

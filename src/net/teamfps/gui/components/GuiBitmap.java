@@ -15,7 +15,8 @@ import net.teamfps.gui.Sprite;
 import net.teamfps.gui.math.Vec2i;
 
 /**
- * @author Zekye
+ * 
+ * @author Mikko Tekoniemi
  *
  */
 public abstract class GuiBitmap implements GuiScreen {

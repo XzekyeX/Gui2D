@@ -10,7 +10,7 @@ import net.teamfps.gui.math.MathHelper;
 
 /**
  * 
- * @author Zekye
+ * @author Mikko Tekoniemi
  *
  */
 public class GuiColorPicker extends GuiComponent {

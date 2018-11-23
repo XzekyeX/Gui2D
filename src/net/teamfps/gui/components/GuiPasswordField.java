@@ -6,7 +6,8 @@ package net.teamfps.gui.components;
 import java.awt.Color;
 
 /**
- * @author Zekye
+ * 
+ * @author Mikko Tekoniemi
  *
  */
 public class GuiPasswordField extends GuiTextField {

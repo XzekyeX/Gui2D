@@ -9,7 +9,7 @@ import java.nio.file.Files;
 
 /**
  * 
- * @author Zekye
+ * @author Mikko Tekoniemi
  *
  */
 public class JarLoader implements Runnable {

@@ -19,7 +19,8 @@ import net.teamfps.gui.components.GuiScreen;
 import net.teamfps.gui.math.Vec2i;
 
 /**
- * @author Zekye
+ * 
+ * @author Mikko Tekoniemi
  *
  */
 public class Bitmap implements GuiScreen {

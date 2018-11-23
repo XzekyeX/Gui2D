@@ -12,7 +12,7 @@ import javax.swing.JFrame;
 
 /**
  * 
- * @author Zekye
+ * @author Mikko Tekoniemi
  *
  */
 public abstract class Window extends Canvas implements Runnable {

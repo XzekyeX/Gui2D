@@ -8,7 +8,8 @@ import java.awt.Color;
 import net.teamfps.gui.Input;
 
 /**
- * @author Zekye
+ * 
+ * @author Mikko Tekoniemi
  *
  */
 public abstract class GuiComponent {

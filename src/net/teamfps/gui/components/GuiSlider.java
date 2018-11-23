@@ -8,7 +8,8 @@ import java.awt.Color;
 import net.teamfps.gui.math.MathHelper;
 
 /**
- * @author Zekye
+ * 
+ * @author Mikko Tekoniemi
  *
  */
 public class GuiSlider extends GuiComponent {

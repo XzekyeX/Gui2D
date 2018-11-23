@@ -4,7 +4,8 @@
 package net.teamfps.gui.math;
 
 /**
- * @author Zekye
+ * 
+ * @author Mikko Tekoniemi
  *
  */
 public class Vec2i {

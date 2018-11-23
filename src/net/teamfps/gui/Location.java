@@ -5,7 +5,11 @@ import java.awt.GraphicsEnvironment;
 import java.awt.Point;
 import java.awt.Rectangle;
 import java.awt.Toolkit;
-
+/**
+ * 
+ * @author Mikko Tekoniemi
+ *
+ */
 public enum Location {
 	TOP_LEFT, TOP_CENTER, TOP_RIGHT, CENTER_LEFT, CENTER, CENTER_RIGHT, BOT_LEFT, BOT_CENTER, BOT_RIGHT, BOT_CENTER_TB, BOT_RIGHT_TB;
 

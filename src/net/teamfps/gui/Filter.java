@@ -2,7 +2,7 @@ package net.teamfps.gui;
 
 /**
  * 
- * @author Zekye
+ * @author Mikko Tekoniemi
  *
  */
 public enum Filter {

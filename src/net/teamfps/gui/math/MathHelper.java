@@ -2,7 +2,11 @@ package net.teamfps.gui.math;
 
 import java.util.Random;
 import java.util.UUID;
-
+/**
+ * 
+ * @author Mikko Tekoniemi
+ *
+ */
 public class MathHelper {
 	public static final float SQRT_2 = sqrt_float(2.0F);
 

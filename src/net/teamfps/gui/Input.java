@@ -10,7 +10,7 @@ import java.awt.event.MouseWheelListener;
 
 /**
  * 
- * @author Zekye
+ * @author Mikko Tekoniemi
  *
  */
 public class Input implements MouseListener, MouseMotionListener, MouseWheelListener, KeyListener {

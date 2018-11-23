@@ -8,7 +8,7 @@ import net.teamfps.gui.Input;
 
 /**
  * 
- * @author Zekye
+ * @author Mikko Tekoniemi
  *
  */
 public class GuiTextArea extends GuiComponent {
